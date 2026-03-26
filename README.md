@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Valeriya Kunichik
 
-<!--
-**ValeriyaKunichik/ValeriyaKunichik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning / Data Science with a focus on building reliable, interpretable, and real-world applicable models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I work on
+
+I am interested in developing machine learning systems that operate under real-world constraints:
+
+- uncertainty and incomplete data  
+- temporal distribution shift  
+- high-stakes decision-making  
+
+My work combines:
+- data science  
+- machine learning  
+- practical system design  
+
+---
+
+## 🔬 Current Project
+
+**TRIAGE PRO — Machine Learning for Decision-Making under Uncertainty**
+
+A full end-to-end ML pipeline for risk prediction built under realistic constraints (EHR-lite setting, temporal validation, calibration, decision-oriented evaluation).
+
+👉 https://github.com/ValeriyaKunichik/triage-pro
+
+---
+
+## ⚙️ Focus Areas
+
+- Machine Learning  
+- Data Science  
+- Trustworthy AI  
+- Interpretable models  
+- Decision systems  
+
+---
+
+## 🚀 Goals
+
+- Build robust ML systems for real-world use  
+- Contribute to research in trustworthy AI  
+- Work on problems where decisions matter  
+
+---
+
+## 📫 Open to
+
+- Research collaborations  
+- ML / Data Science roles  
+
+---
