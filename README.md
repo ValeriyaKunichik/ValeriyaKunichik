@@ -1,6 +1,6 @@
 # Hi, I'm Valeriya Kunichik
 
-Machine Learning / Data Science with a focus on building reliable, interpretable, and real-world applicable models.
+Machine Learning & Data Science focused on building reliable, interpretable, and real-world applicable systems for decision-making under uncertainty.
 
 ---
 
