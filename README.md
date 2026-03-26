@@ -53,3 +53,9 @@ A full end-to-end ML pipeline for risk prediction built under realistic constrai
 - ML / Data Science roles  
 
 ---
+
+## 🌍 Impact
+
+My work is focused on developing machine learning systems that can be applied in high-impact domains such as healthcare, risk modeling, and decision support systems, where reliability and robustness are critical.
+
+I aim to contribute to building trustworthy AI systems that can support real-world decision-making at scale.
