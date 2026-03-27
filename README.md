@@ -1,6 +1,8 @@
 # Hi, I'm Valeriya Kunichik
 
-Machine Learning & Data Science focused on building reliable, interpretable, and real-world applicable systems for decision-making under uncertainty.
+I build machine learning systems for decision-making under uncertainty.
+
+My focus is on making models reliable in real-world conditions where data is incomplete, noisy, and constantly changing.
 
 ---
 
@@ -23,7 +25,7 @@ My work combines:
 
 **TRIAGE PRO — Machine Learning for Decision-Making under Uncertainty**
 
-A full end-to-end ML pipeline for risk prediction built under realistic constraints (EHR-lite setting, temporal validation, calibration, decision-oriented evaluation).
+An end-to-end ML system designed under realistic constraints, focusing on reliability, calibration, and decision-oriented evaluation rather than pure accuracy.
 
 👉 https://github.com/ValeriyaKunichik/triage-pro
 
@@ -31,19 +33,19 @@ A full end-to-end ML pipeline for risk prediction built under realistic constrai
 
 ## ⚙️ Focus Areas
 
-- Machine Learning  
-- Data Science  
-- Trustworthy AI  
-- Interpretable models  
-- Decision systems  
+- Trustworthy Machine Learning  
+- Interpretable Models  
+- Risk Modeling  
+- Decision Systems under Uncertainty  
+- Distribution Shift  
 
 ---
 
 ## 🚀 Goals
 
-- Build robust ML systems for real-world use  
-- Contribute to research in trustworthy AI  
-- Work on problems where decisions matter  
+- Build ML systems that remain reliable under real-world uncertainty  
+- Contribute to research in trustworthy and decision-aware AI  
+- Work on high-impact problems where model errors have real consequences  
 
 ---
 
